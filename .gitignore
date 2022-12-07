@@ -1,0 +1,6 @@
+# Ignore generated files
+data
+
+ruby/.env
+
+.DS_Store
